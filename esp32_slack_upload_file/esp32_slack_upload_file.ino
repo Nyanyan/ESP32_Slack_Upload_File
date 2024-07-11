@@ -4,7 +4,7 @@
   @date 2024
   @author Takuto Yamana
   @license MIT license
-  @note please see article here: https://qiita.com/Nyanyan_Cube/c6e74ce6e6c8cd159df7
+  @note please see article here: https://qiita.com/Nyanyan_Cube/items/c6e74ce6e6c8cd159df7
 */
 
 #include <WiFi.h> // to use wifi
