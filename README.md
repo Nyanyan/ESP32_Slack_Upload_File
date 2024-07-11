@@ -6,4 +6,4 @@ This sample uploads a 20x20 tiny bitmap image from ESP32.
 
 日本語解説記事はこちら: https://qiita.com/Nyanyan_Cube/c6e74ce6e6c8cd159df7
 
-![img](image/img.png)
+![img](img/img.png)
